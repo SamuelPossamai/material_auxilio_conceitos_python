@@ -6,3 +6,8 @@ def gerador(inicio, fim):
 
 for squared in gerador(10, 20):
     print(squared)
+
+#ger = gerador(10, 20)
+
+#print(next(ger))
+#print(next(ger))

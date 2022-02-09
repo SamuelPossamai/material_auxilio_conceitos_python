@@ -1,7 +1,7 @@
 
-#import functools
+import functools
 
-#@functools.lru_cache
+@functools.lru_cache
 def fib(n):
 
     if n in (0, 1):
@@ -9,4 +9,4 @@ def fib(n):
 
     return fib(n - 1) + fib(n - 2)
 
-print(fib(4))
+print(fib(40))

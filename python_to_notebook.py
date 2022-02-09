@@ -21,7 +21,7 @@ template_all = {
             "name": "python",
             "nbconvert_exporter": "python",
             "pygments_lexer": "ipython3",
-            "version": "3.6.4"
+            "version": "3.9.0"
         }
     },
     "nbformat": 4,
